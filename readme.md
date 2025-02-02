@@ -76,8 +76,8 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/bharatfd-hiring-challenge.git
-   cd bharatfd-hiring-challenge/backend
+   git clone https://github.com/amannn007/BHARATFD.git
+   cd BHARATFD/backend
    ```
 
 2. Install dependencies:
